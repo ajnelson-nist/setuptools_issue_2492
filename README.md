@@ -10,7 +10,7 @@ After cloning the repository, run `make`.  `make` is expected to exit in an erro
 
 ## Test outline
 
-The `check` recipe runs a test defined in [`test.mk`] on two directories:
+The `check` recipe runs a test defined in [`test.mk`](test.mk) on two directories:
 * `using_setup_cfg`, where [`setup.cfg`](using_setup_cfg/setup.cfg) supplies the package version with an attribute descriptor.
 * `using_setup_py`, where [`setup.py`](using_setup_py/setup.py) supplies the package version with the same syntax.
 
