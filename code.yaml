@@ -17,11 +17,11 @@
 # topics. The final topics are produced from this file and the topics.
 
 categories:
-  - scientific-software
+  #- scientific-software
   #- simulation
   #- visualization
   #- ai-ml
-  #- build-tools
+  - build-tools
   #- hpc-workflow
 themes:
   # - Advanced communications
@@ -36,4 +36,4 @@ themes:
   # - Fire
   # - Forensic Science
   # - Health
-  # - Information technology
+  - Information technology
