@@ -1,0 +1,5 @@
+*.done.log
+*.egg-info
+__pycache__
+build
+dist
